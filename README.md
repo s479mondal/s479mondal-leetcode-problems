@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
