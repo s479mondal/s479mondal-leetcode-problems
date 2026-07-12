@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1068-product-sales-analysis-i) |
 | [1251-average-selling-price](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1251-average-selling-price) |
 | [1661-average-time-of-process-per-machine](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1661-average-time-of-process-per-machine) |
+## Array
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
