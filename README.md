@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
