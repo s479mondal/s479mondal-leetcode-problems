@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [2785-sort-vowels-in-a-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
+| [3019-number-of-changing-keys](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3019-number-of-changing-keys) |
 ## Counting
 |  |
 | ------- |
