@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0184-department-highest-salary](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0620-not-boring-movies) |
