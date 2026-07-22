@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
+| [2974-minimum-number-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
+| [2974-minimum-number-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2974-minimum-number-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
