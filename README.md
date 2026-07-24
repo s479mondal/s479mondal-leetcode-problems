@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0072-edit-distance) |
+| [0205-isomorphic-strings](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
