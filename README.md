@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0344-reverse-string) |
 ## Math
 |  |
