@@ -8,8 +8,8 @@ class Solution {
             map.put(fruits[i],map.getOrDefault(fruits[i],0)+1);
             while(map.size()>2)
             {
-                int n=map.get(fruits[left]);
-                if(n>1)
+                int c=map.get(fruits[left]);
+                if(c>1)
                 {
                     map.put(fruits[left],map.getOrDefault(fruits[left],0)-1);
                 }
