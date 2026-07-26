@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0189-rotate-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0189-rotate-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0064-minimum-path-sum) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
