@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0904-fruit-into-baskets](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 ## Database
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0169-majority-element](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0213-house-robber-ii) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2974-minimum-number-game) |
@@ -191,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
