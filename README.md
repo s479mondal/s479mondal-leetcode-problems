@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
 | [0518-coin-change-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0035-search-insert-position) |
+| [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
 | [3477-fruits-into-baskets-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
 | [3477-fruits-into-baskets-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
@@ -196,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
