@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2974-minimum-number-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2974-minimum-number-game) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
+| [1004-max-consecutive-ones-iii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3477-fruits-into-baskets-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
