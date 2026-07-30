@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
@@ -229,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
