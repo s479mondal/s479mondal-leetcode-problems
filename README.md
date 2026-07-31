@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0045-jump-game-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0189-rotate-array) |
