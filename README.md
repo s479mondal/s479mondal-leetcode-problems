@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
 | [0518-coin-change-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0904-fruit-into-baskets) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
