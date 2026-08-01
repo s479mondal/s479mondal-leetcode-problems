@@ -9,19 +9,20 @@ class Solution {
             {
                 continue;
             }
+
             int l=i+1;
             int r=nums.length-1;
             while(l<r)
             {
-                int sum=0;
-                List<Integer> temp=new ArrayList<>();
-                sum=t+nums[l]+nums[r];
+                List<Integer> temp=new ArrayList<>(); 
+                int sum=t+nums[l]+nums[r];
                 if(sum==0)
                 {
                     temp.add(t);
                     temp.add(nums[l]);
                     temp.add(nums[r]);
-                    while(l<r  && nums[l]==nums[l+1])
+
+                    while(l<r && nums[l]==nums[l+1])
                     {
                         l++;
                     }
