@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0507-perfect-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0258-add-digits) |
 | [2974-minimum-number-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2974-minimum-number-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Enumeration
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
