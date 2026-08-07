@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0507-perfect-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
