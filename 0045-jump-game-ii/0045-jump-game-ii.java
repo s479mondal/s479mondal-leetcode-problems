@@ -6,10 +6,6 @@ class Solution {
         for(int i=0;i<nums.length-1;i++)
         {
             n=Math.max(n,nums[i]+i);
-            if(n<lend)
-            {
-                return -1;
-            }
             if(lend==i)
             {
                 count++;
