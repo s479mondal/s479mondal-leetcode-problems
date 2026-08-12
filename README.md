@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2974-minimum-number-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2974-minimum-number-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
