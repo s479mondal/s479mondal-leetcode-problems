@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0053-maximum-subarray) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0055-jump-game) |
@@ -294,12 +297,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
 ## Trie
 |  |
