@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0055-jump-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
 ## Linked List
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0070-climbing-stairs) |
