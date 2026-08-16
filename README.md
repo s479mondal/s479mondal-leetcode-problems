@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Database
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0455-assign-cookies) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2974-minimum-number-game) |
 ## Simulation
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -387,4 +393,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0278-first-bad-version) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
