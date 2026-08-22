@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
