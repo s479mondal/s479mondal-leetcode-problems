@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1068-product-sales-analysis-i) |
+| [1084-sales-analysis-iii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1084-sales-analysis-iii) |
 | [1251-average-selling-price](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1661-average-time-of-process-per-machine) |
