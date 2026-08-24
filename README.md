@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
