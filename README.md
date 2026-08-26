@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Linked List
 |  |
 | ------- |
