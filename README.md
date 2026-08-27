@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2974-minimum-number-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2974-minimum-number-game) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2785-sort-vowels-in-a-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2974-minimum-number-game) |
 ## Depth-First Search
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1143-longest-common-subsequence) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
 |  |
 | ------- |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
 | [1004-max-consecutive-ones-iii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -328,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
@@ -375,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -450,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
