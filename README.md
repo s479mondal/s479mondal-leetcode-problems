@@ -180,11 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
+| [2685-count-the-number-of-complete-components](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
+| [2685-count-the-number-of-complete-components](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -480,4 +482,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0494-target-sum) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
