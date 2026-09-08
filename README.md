@@ -179,12 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0547-number-of-provinces](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
 | [2685-count-the-number-of-complete-components](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
 | [2685-count-the-number-of-complete-components](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
@@ -485,9 +487,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
