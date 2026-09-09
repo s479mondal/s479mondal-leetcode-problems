@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -179,12 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
 | [2685-count-the-number-of-complete-components](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Linked List
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
