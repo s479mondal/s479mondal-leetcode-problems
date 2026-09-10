@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
+| [1544-make-the-string-great](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1544-make-the-string-great) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2785-sort-vowels-in-a-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
