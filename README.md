@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0840-magic-squares-in-grid](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0840-magic-squares-in-grid](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0840-magic-squares-in-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Linked List
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0840-magic-squares-in-grid](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
