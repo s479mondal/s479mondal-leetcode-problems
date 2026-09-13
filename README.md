@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2785-sort-vowels-in-a-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
+| [2810-faulty-keyboard](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3019-number-of-changing-keys) |
 ## Counting
 |  |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0412-fizz-buzz) |
+| [2810-faulty-keyboard](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
