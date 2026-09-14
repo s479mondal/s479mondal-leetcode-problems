@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3019-number-of-changing-keys) |
+| [3330-find-the-original-typed-string-i](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3330-find-the-original-typed-string-i) |
 ## Counting
 |  |
 | ------- |
