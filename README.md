@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1544-make-the-string-great](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1544-make-the-string-great) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2785-sort-vowels-in-a-string](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2810-faulty-keyboard) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Memoization
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0455-assign-cookies) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
 | ------- |
