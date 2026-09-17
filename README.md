@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1143-longest-common-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Memoization
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0456-132-pattern) |
 | [1004-max-consecutive-ones-iii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
