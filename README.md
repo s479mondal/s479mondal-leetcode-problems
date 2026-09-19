@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1089-duplicate-zeros](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/s479mondal/s479mondal-leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
